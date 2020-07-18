@@ -95,12 +95,7 @@ JObject FindJsonFromVideoInfo(string info)
 حالا لیست ما امادس و میتونید به هر طریقی که دوست دارید ازش استفاده کنید
 این کد فقط یک مشکل داره که موزیک ویدیو های منتشر شده در سایت یوتیوب رو پیدا نمیکنه که احتمال میدم برای بحث کپی رایت باشه
 امیدوارم خوشتون امده باشه
-RezaParsian/Youtube-Downloader
-RezaParsian/Youtube-Downloader
-Contribute to RezaParsian/Youtube-Downloader development by creating an account on GitHub.
-github.com
-رضا پارسیان - برنامه نویس کوچک
-رضا پارسیان - برنامه نویس کوچک
+
 🤘🏻im Not Perfect But I'm Limited Edition🤘
-rp76.ir
+https://rp76.ir
 
